@@ -1,5 +1,12 @@
 <Solution>
+  <Project Path="CF339A/CF339A.csproj" Id="3b60a548-ddbf-4f0d-b541-900bc9fd89fe" />
+  <Project Path="CF_112_A/CF_112_A.csproj" Id="7b892b6c-5d46-4ad0-8daa-3a578deb18f7" />
+  <Project Path="CF_118_A/CF_118_A.csproj" Id="73286dc8-0834-480c-943e-d53e23c24ec3" />
+  <Project Path="CF_236_A/CF_236_A.csproj" Id="958cd151-214f-47b4-8930-e24dc23037ae" />
   <Project Path="CF_263_A/CF_263_A.csproj" Id="28fc6af2-5d15-4899-ba8a-1cd4e3b3775a" />
+  <Project Path="CF_266_A/CF_266_A.csproj" Id="6f9bbbb2-d5f1-4967-874d-719b89f87e77" />
   <Project Path="CF_282_A/CF_282_A.csproj" Id="37fb2b33-4b39-46e6-9db6-777411798b37" />
+  <Project Path="CF_546_A/CF_546_A.csproj" Id="80c323d8-e4f0-4c4a-b177-5655726f2d80" />
   <Project Path="CF_71_A/CF_71_A.csproj" />
+  <Project Path="CF_96_A/CF_96_A.csproj" Id="4faa816d-bc1e-4cf7-a964-c2c3527b4384" />
 </Solution>
