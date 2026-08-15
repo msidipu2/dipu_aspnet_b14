@@ -1,0 +1,207 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Devskill\\dipu_aspnet_b14\\dipu_aspnet_b14\\assignment2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E6DA283-BC73-49FC-BE88-C52BD36D5E57}|Assignment2\\Assignment2.csproj|d:\\devskill\\dipu_aspnet_b14\\dipu_aspnet_b14\\assignment2\\assignment2\\studentmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E6DA283-BC73-49FC-BE88-C52BD36D5E57}|Assignment2\\Assignment2.csproj|solutionrelative:assignment2\\studentmember.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E6DA283-BC73-49FC-BE88-C52BD36D5E57}|Assignment2\\Assignment2.csproj|d:\\devskill\\dipu_aspnet_b14\\dipu_aspnet_b14\\assignment2\\assignment2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E6DA283-BC73-49FC-BE88-C52BD36D5E57}|Assignment2\\Assignment2.csproj|solutionrelative:assignment2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E6DA283-BC73-49FC-BE88-C52BD36D5E57}|Assignment2\\Assignment2.csproj|d:\\devskill\\dipu_aspnet_b14\\dipu_aspnet_b14\\assignment2\\assignment2\\iborrowable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E6DA283-BC73-49FC-BE88-C52BD36D5E57}|Assignment2\\Assignment2.csproj|solutionrelative:assignment2\\iborrowable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E6DA283-BC73-49FC-BE88-C52BD36D5E57}|Assignment2\\Assignment2.csproj|d:\\devskill\\dipu_aspnet_b14\\dipu_aspnet_b14\\assignment2\\assignment2\\ifinecalculable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E6DA283-BC73-49FC-BE88-C52BD36D5E57}|Assignment2\\Assignment2.csproj|solutionrelative:assignment2\\ifinecalculable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E6DA283-BC73-49FC-BE88-C52BD36D5E57}|Assignment2\\Assignment2.csproj|d:\\devskill\\dipu_aspnet_b14\\dipu_aspnet_b14\\assignment2\\assignment2\\finecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E6DA283-BC73-49FC-BE88-C52BD36D5E57}|Assignment2\\Assignment2.csproj|solutionrelative:assignment2\\finecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E6DA283-BC73-49FC-BE88-C52BD36D5E57}|Assignment2\\Assignment2.csproj|d:\\devskill\\dipu_aspnet_b14\\dipu_aspnet_b14\\assignment2\\assignment2\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E6DA283-BC73-49FC-BE88-C52BD36D5E57}|Assignment2\\Assignment2.csproj|solutionrelative:assignment2\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E6DA283-BC73-49FC-BE88-C52BD36D5E57}|Assignment2\\Assignment2.csproj|d:\\devskill\\dipu_aspnet_b14\\dipu_aspnet_b14\\assignment2\\assignment2\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E6DA283-BC73-49FC-BE88-C52BD36D5E57}|Assignment2\\Assignment2.csproj|solutionrelative:assignment2\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E6DA283-BC73-49FC-BE88-C52BD36D5E57}|Assignment2\\Assignment2.csproj|d:\\devskill\\dipu_aspnet_b14\\dipu_aspnet_b14\\assignment2\\assignment2\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E6DA283-BC73-49FC-BE88-C52BD36D5E57}|Assignment2\\Assignment2.csproj|solutionrelative:assignment2\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E6DA283-BC73-49FC-BE88-C52BD36D5E57}|Assignment2\\Assignment2.csproj|d:\\devskill\\dipu_aspnet_b14\\dipu_aspnet_b14\\assignment2\\assignment2\\borrowrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E6DA283-BC73-49FC-BE88-C52BD36D5E57}|Assignment2\\Assignment2.csproj|solutionrelative:assignment2\\borrowrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E6DA283-BC73-49FC-BE88-C52BD36D5E57}|Assignment2\\Assignment2.csproj|d:\\devskill\\dipu_aspnet_b14\\dipu_aspnet_b14\\assignment2\\assignment2\\referencebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E6DA283-BC73-49FC-BE88-C52BD36D5E57}|Assignment2\\Assignment2.csproj|solutionrelative:assignment2\\referencebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E6DA283-BC73-49FC-BE88-C52BD36D5E57}|Assignment2\\Assignment2.csproj|d:\\devskill\\dipu_aspnet_b14\\dipu_aspnet_b14\\assignment2\\assignment2\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E6DA283-BC73-49FC-BE88-C52BD36D5E57}|Assignment2\\Assignment2.csproj|solutionrelative:assignment2\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentMember.cs",
+              "DocumentMoniker": "D:\\Devskill\\dipu_aspnet_b14\\dipu_aspnet_b14\\assignment2\\Assignment2\\StudentMember.cs",
+              "RelativeDocumentMoniker": "Assignment2\\StudentMember.cs",
+              "ToolTip": "D:\\Devskill\\dipu_aspnet_b14\\dipu_aspnet_b14\\assignment2\\Assignment2\\StudentMember.cs",
+              "RelativeToolTip": "Assignment2\\StudentMember.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-15T14:28:15.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IFineCalculable.cs",
+              "DocumentMoniker": "D:\\Devskill\\dipu_aspnet_b14\\dipu_aspnet_b14\\assignment2\\Assignment2\\IFineCalculable.cs",
+              "RelativeDocumentMoniker": "Assignment2\\IFineCalculable.cs",
+              "ToolTip": "D:\\Devskill\\dipu_aspnet_b14\\dipu_aspnet_b14\\assignment2\\Assignment2\\IFineCalculable.cs",
+              "RelativeToolTip": "Assignment2\\IFineCalculable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-15T14:24:55.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IBorrowable.cs",
+              "DocumentMoniker": "D:\\Devskill\\dipu_aspnet_b14\\dipu_aspnet_b14\\assignment2\\Assignment2\\IBorrowable.cs",
+              "RelativeDocumentMoniker": "Assignment2\\IBorrowable.cs",
+              "ToolTip": "D:\\Devskill\\dipu_aspnet_b14\\dipu_aspnet_b14\\assignment2\\Assignment2\\IBorrowable.cs",
+              "RelativeToolTip": "Assignment2\\IBorrowable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-15T14:18:24.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Devskill\\dipu_aspnet_b14\\dipu_aspnet_b14\\assignment2\\Assignment2\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment2\\Program.cs",
+              "ToolTip": "D:\\Devskill\\dipu_aspnet_b14\\dipu_aspnet_b14\\assignment2\\Assignment2\\Program.cs",
+              "RelativeToolTip": "Assignment2\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAADwvy4AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-15T14:15:39.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FineCalculator.cs",
+              "DocumentMoniker": "D:\\Devskill\\dipu_aspnet_b14\\dipu_aspnet_b14\\assignment2\\Assignment2\\FineCalculator.cs",
+              "RelativeDocumentMoniker": "Assignment2\\FineCalculator.cs",
+              "ToolTip": "D:\\Devskill\\dipu_aspnet_b14\\dipu_aspnet_b14\\assignment2\\Assignment2\\FineCalculator.cs",
+              "RelativeToolTip": "Assignment2\\FineCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-15T14:20:09.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\Devskill\\dipu_aspnet_b14\\dipu_aspnet_b14\\assignment2\\Assignment2\\Person.cs",
+              "RelativeDocumentMoniker": "Assignment2\\Person.cs",
+              "ToolTip": "D:\\Devskill\\dipu_aspnet_b14\\dipu_aspnet_b14\\assignment2\\Assignment2\\Person.cs",
+              "RelativeToolTip": "Assignment2\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-15T14:14:38.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Member.cs",
+              "DocumentMoniker": "D:\\Devskill\\dipu_aspnet_b14\\dipu_aspnet_b14\\assignment2\\Assignment2\\Member.cs",
+              "RelativeDocumentMoniker": "Assignment2\\Member.cs",
+              "ToolTip": "D:\\Devskill\\dipu_aspnet_b14\\dipu_aspnet_b14\\assignment2\\Assignment2\\Member.cs",
+              "RelativeToolTip": "Assignment2\\Member.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-15T14:05:01.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Library.cs",
+              "DocumentMoniker": "D:\\Devskill\\dipu_aspnet_b14\\dipu_aspnet_b14\\assignment2\\Assignment2\\Library.cs",
+              "RelativeDocumentMoniker": "Assignment2\\Library.cs",
+              "ToolTip": "D:\\Devskill\\dipu_aspnet_b14\\dipu_aspnet_b14\\assignment2\\Assignment2\\Library.cs",
+              "RelativeToolTip": "Assignment2\\Library.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAAwH4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-15T14:20:32.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BorrowRecord.cs",
+              "DocumentMoniker": "D:\\Devskill\\dipu_aspnet_b14\\dipu_aspnet_b14\\assignment2\\Assignment2\\BorrowRecord.cs",
+              "RelativeDocumentMoniker": "Assignment2\\BorrowRecord.cs",
+              "ToolTip": "D:\\Devskill\\dipu_aspnet_b14\\dipu_aspnet_b14\\assignment2\\Assignment2\\BorrowRecord.cs",
+              "RelativeToolTip": "Assignment2\\BorrowRecord.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAuwC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-15T14:19:52.188Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ReferenceBook.cs",
+              "DocumentMoniker": "D:\\Devskill\\dipu_aspnet_b14\\dipu_aspnet_b14\\assignment2\\Assignment2\\ReferenceBook.cs",
+              "RelativeDocumentMoniker": "Assignment2\\ReferenceBook.cs",
+              "ToolTip": "D:\\Devskill\\dipu_aspnet_b14\\dipu_aspnet_b14\\assignment2\\Assignment2\\ReferenceBook.cs",
+              "RelativeToolTip": "Assignment2\\ReferenceBook.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-15T14:19:29.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\Devskill\\dipu_aspnet_b14\\dipu_aspnet_b14\\assignment2\\Assignment2\\Book.cs",
+              "RelativeDocumentMoniker": "Assignment2\\Book.cs",
+              "ToolTip": "D:\\Devskill\\dipu_aspnet_b14\\dipu_aspnet_b14\\assignment2\\Assignment2\\Book.cs",
+              "RelativeToolTip": "Assignment2\\Book.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAADwvzMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-15T14:17:00.646Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

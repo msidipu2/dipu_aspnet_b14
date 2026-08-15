@@ -1,0 +1,15 @@
+D:\Devskill\dipu_aspnet_b14\dipu_aspnet_b14\assignment2\Assignment2\obj\Debug\net10.0\Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Devskill\dipu_aspnet_b14\dipu_aspnet_b14\assignment2\Assignment2\obj\Debug\net10.0\Assignment2.AssemblyInfoInputs.cache
+D:\Devskill\dipu_aspnet_b14\dipu_aspnet_b14\assignment2\Assignment2\obj\Debug\net10.0\Assignment2.AssemblyInfo.cs
+D:\Devskill\dipu_aspnet_b14\dipu_aspnet_b14\assignment2\Assignment2\obj\Debug\net10.0\Assignment2.csproj.CoreCompileInputs.cache
+D:\Devskill\dipu_aspnet_b14\dipu_aspnet_b14\assignment2\Assignment2\obj\Debug\net10.0\Assignment2.sourcelink.json
+D:\Devskill\dipu_aspnet_b14\dipu_aspnet_b14\assignment2\Assignment2\bin\Debug\net10.0\Assignment2.exe
+D:\Devskill\dipu_aspnet_b14\dipu_aspnet_b14\assignment2\Assignment2\bin\Debug\net10.0\Assignment2.deps.json
+D:\Devskill\dipu_aspnet_b14\dipu_aspnet_b14\assignment2\Assignment2\bin\Debug\net10.0\Assignment2.runtimeconfig.json
+D:\Devskill\dipu_aspnet_b14\dipu_aspnet_b14\assignment2\Assignment2\bin\Debug\net10.0\Assignment2.dll
+D:\Devskill\dipu_aspnet_b14\dipu_aspnet_b14\assignment2\Assignment2\bin\Debug\net10.0\Assignment2.pdb
+D:\Devskill\dipu_aspnet_b14\dipu_aspnet_b14\assignment2\Assignment2\obj\Debug\net10.0\Assignment2.dll
+D:\Devskill\dipu_aspnet_b14\dipu_aspnet_b14\assignment2\Assignment2\obj\Debug\net10.0\refint\Assignment2.dll
+D:\Devskill\dipu_aspnet_b14\dipu_aspnet_b14\assignment2\Assignment2\obj\Debug\net10.0\Assignment2.pdb
+D:\Devskill\dipu_aspnet_b14\dipu_aspnet_b14\assignment2\Assignment2\obj\Debug\net10.0\Assignment2.genruntimeconfig.cache
+D:\Devskill\dipu_aspnet_b14\dipu_aspnet_b14\assignment2\Assignment2\obj\Debug\net10.0\ref\Assignment2.dll
